@@ -1,7 +1,7 @@
 {
-  "name": "vue2-google-maps",
+  "name": "vue2-google-maps-custom",
   "version": "0.8.4",
-  "description": "This is a google map component for Vue.js, updated for Vue 2 compatibility",
+  "description": "This is a google map component for Vue.js, updated for Vue 2 compatibility - with image source editable for clusters",
   "main": "dist/main.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --quiet --port 9999",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xkjyeah/vue-google-maps.git"
+    "url": "git+https://github.com/kayui/vue-google-maps.git"
   },
   "bugs": {
-    "url": "https://github.com/xkjyeah/vue-google-maps/issues"
+    "url": "https://github.com/kayui/vue-google-maps/issues"
   },
-  "homepage": "https://github.com/xkjyeah/vue-google-maps#readme",
+  "homepage": "https://github.com/kayui/vue-google-maps#readme",
   "dependencies": {
     "babel-plugin-lodash": "^3.2.11",
     "babel-plugin-transform-runtime": "^6.15.0",
