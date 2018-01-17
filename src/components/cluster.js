@@ -30,6 +30,10 @@ const props = {
   styles: {
     type: Array,
     twoWay: false
+  },
+  imagePath: {
+    Type: String,
+    twoWay: false
   }
 };
 

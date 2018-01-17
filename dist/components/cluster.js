@@ -46,6 +46,10 @@ var props = {
   styles: {
     type: Array,
     twoWay: false
+  },
+  imagePath: {
+    Type: String,
+    twoWay: false
   }
 }; /* vim: set softtabstop=2 shiftwidth=2 expandtab : */
 
